@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Rozdzial_2", "Rozdzial_2", "{51FC0205-D4C8-4B1A-915B-A5806084743D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingBookSamples", "ThreadingBookSamples\ThreadingBookSamples.csproj", "{B27D1E7E-FC27-471F-97F7-6C3462BAA5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watki", "Rozdzial_2\Watki\Watki.csproj", "{A133365B-8C58-4D96-BFED-BB9C79C6FA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27D1E7E-FC27-471F-97F7-6C3462BAA5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27D1E7E-FC27-471F-97F7-6C3462BAA5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27D1E7E-FC27-471F-97F7-6C3462BAA5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27D1E7E-FC27-471F-97F7-6C3462BAA5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A133365B-8C58-4D96-BFED-BB9C79C6FA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A133365B-8C58-4D96-BFED-BB9C79C6FA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A133365B-8C58-4D96-BFED-BB9C79C6FA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A133365B-8C58-4D96-BFED-BB9C79C6FA08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A133365B-8C58-4D96-BFED-BB9C79C6FA08} = {51FC0205-D4C8-4B1A-915B-A5806084743D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62730334-8076-4E32-8C25-9FA9E0D719C8}
+	EndGlobalSection
+EndGlobal
