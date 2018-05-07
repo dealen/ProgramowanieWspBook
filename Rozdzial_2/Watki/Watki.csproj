@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="LiczbaPi_UzycieKlasyThread.cs" />
     <Compile Include="LiczbaPi_Synchronicznie.cs" />
+    <Compile Include="LiczbaPi_WieleWatkow.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Testing_Aborting_Suspending_Thread.cs" />
   </ItemGroup>

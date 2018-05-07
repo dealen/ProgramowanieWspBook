@@ -27,6 +27,9 @@ namespace ThreadingBookSamples
 
             var suspending = new Testing_Aborting_Suspending_Thread();
             suspending.ThreadSuspending();
+
+            var wieleWatkow = new LiczbaPi_WieleWatkow();
+            wieleWatkow.Main();
         }
     }
 }
