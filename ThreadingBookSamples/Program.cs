@@ -30,6 +30,12 @@ namespace ThreadingBookSamples
 
             var wieleWatkow = new LiczbaPi_WieleWatkow();
             wieleWatkow.Main();
+
+            var joining = new LiczbaPi_Join();
+            joining.Run();
+
+            var threadPooling = new LiczbaPi_ThreadPool();
+            threadPooling.Run();
         }
     }
 }

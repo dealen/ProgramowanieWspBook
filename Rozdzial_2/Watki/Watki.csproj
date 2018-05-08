@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LiczbaPi_Join.cs" />
+    <Compile Include="LiczbaPi_ThreadPool.cs" />
     <Compile Include="LiczbaPi_UzycieKlasyThread.cs" />
     <Compile Include="LiczbaPi_Synchronicznie.cs" />
     <Compile Include="LiczbaPi_WieleWatkow.cs" />
